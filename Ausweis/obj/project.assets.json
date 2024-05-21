@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\PM_Ausweis\\Ausweis\\Ausweis.csproj",
+      "projectUniqueName": "D:\\PM_Ausweis\\Ausweis\\Ausweis.csproj",
       "projectName": "Ausweis",
-      "projectPath": "C:\\Users\\User\\Desktop\\PM_Ausweis\\Ausweis\\Ausweis.csproj",
+      "projectPath": "D:\\PM_Ausweis\\Ausweis\\Ausweis.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\PM_Ausweis\\Ausweis\\obj\\",
+      "outputPath": "D:\\PM_Ausweis\\Ausweis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
